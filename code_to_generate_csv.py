@@ -36,7 +36,7 @@ if os.path.isfile(file_directory):
       volume = round(volume/16.387,3)
     df = df.append({'order_id': temp['order_id'] ,'weight (lbs)': weight, 'volume (in3)': volume}, ignore_index=True)
   df['order_id'] = df['order_id'].astype(int)
- print('hello')
+
   #generate .csv file
   df.to_csv('records_csv.csv',index=False)
 
