@@ -13,3 +13,8 @@ Please transform the logs into a .csv with the following columns: `order_id`, `w
   
          https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
   
+
+
+## 3. To run the program
+
+1. Clone the repository and enter python code_to_generate_csv.py
