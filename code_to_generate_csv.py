@@ -17,7 +17,7 @@ import os
 #read log file by line
 current_directory = os.getcwd()
 file_directory  = current_directory+'/records.log'
-log_file =  open(file_directory ,'r')
+log_file =  open(file_directory,'r')
 log_file_by_line = log_file.readlines()
 
 #create a dataframe with order_id,weight (lbs),volume (in3) as header
