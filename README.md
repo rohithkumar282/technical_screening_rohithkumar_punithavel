@@ -8,6 +8,8 @@ Please transform the logs into a .csv with the following columns: `order_id`, `w
 ## 2. Packages required
 
 1. Pandas
+
   1.1 Installation Instructions
+  
   https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
   
