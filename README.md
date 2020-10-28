@@ -17,4 +17,6 @@ Please transform the logs into a .csv with the following columns: `order_id`, `w
 
 ## 3. Instructions to run the program
 
-1. Clone the repository and enter python code_to_generate_csv.py
+1. Clone the repository and enter 
+
+            python code_to_generate_csv.py
